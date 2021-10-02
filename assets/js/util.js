@@ -62,34 +62,24 @@
 				id = $this.attr('id'),
 				config;
 
-		// Config.
 			config = $.extend({
 
-				// Delay.
 					delay: 0,
 
-				// Hide panel on link click.
 					hideOnClick: false,
 
-				// Hide panel on escape keypress.
 					hideOnEscape: false,
 
-				// Hide panel on swipe.
 					hideOnSwipe: false,
 
-				// Reset scroll position on hide.
 					resetScroll: false,
 
-				// Reset forms on hide.
 					resetForms: false,
 
-				// Side of viewport the panel will appear.
 					side: null,
 
-				// Target element for "class".
 					target: $this,
 
-				// Class to toggle.
 					visibleClass: 'visible'
 
 			}, userConfig);

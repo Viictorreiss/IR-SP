@@ -15,7 +15,7 @@
 
 <br>
 
-## Getting Started <a name = "sobre"></a>
+## Sobre <a name = "sobre"></a>
 
 Um grupo de alunos da [Universidade São Judas Tadeu](https://www.usjt.br)que se reuniu em prol de auxiliar refugiados no estado de São Paulo para que essas pessoas se tornem cidadãos legais no país. Neste site é possível encontrar informações sobre os seguintes serviços:
 
